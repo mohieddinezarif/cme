@@ -66,7 +66,7 @@ html, body {
 }
 
 .item:nth-child(1) {
-    background-color: rgb(36, 44, 69);
+    background-color: rgb(34, 44, 71);
   
 }
 .item:nth-child(2) {
@@ -75,15 +75,16 @@ html, body {
   
 }
 .item:nth-child(3) {
-    background-color: rgb(63, 149, 213);
+    background-color: rgb(0, 149, 218);
   
 }
 .item:nth-child(4) {
-    background-color: rgb(222, 221, 98);
+	background: url('../images/logo-colored.png') no-repeat center center fixed;
+    background-color: rgb(222, 222, 70);
   
 }
 .item:nth-child(5) {
-    background-color: rgb(77, 172, 155);
+    background-color: rgb(0, 175, 155);
 }
 
 .carousel {
